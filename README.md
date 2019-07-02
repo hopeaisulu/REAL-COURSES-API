@@ -1,5 +1,10 @@
 # Courses-API #
-## Set-Up Instractions ##
+
+## API Documentation ##
+
+https://app.apiary.io/myapi617/editor
+
+### Set-Up Instractions ###
 
 `$ python3 -m venv myvenv`
 
