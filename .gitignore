@@ -1,4 +1,4 @@
+.env
 courseapi/
 db.sqlite3
 *.pyc
-.env
